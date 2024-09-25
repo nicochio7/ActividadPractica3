@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FACULTAD\\PRACTICA02\\Practica02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CFA2705-5E7E-4A40-BBC4-985B6FC3FC35}|C:\\Users\\Usuario\\source\\repos\\Practica01\\Practica01\\Practica01.csproj|c:\\users\\usuario\\source\\repos\\practica01\\practica01\\datos\\implementations\\facturarepositoryado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A84D5AE-2C50-431B-833D-185D795D4863}|Practica02.csproj|d:\\facultad\\practica02\\practica02\\controllers\\facturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A84D5AE-2C50-431B-833D-185D795D4863}|Practica02.csproj|solutionrelative:controllers\\facturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CFA2705-5E7E-4A40-BBC4-985B6FC3FC35}|C:\\Users\\Usuario\\source\\repos\\Practica01\\Practica01\\Practica01.csproj|c:\\users\\usuario\\source\\repos\\practica01\\practica01\\servicios\\facturaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CFA2705-5E7E-4A40-BBC4-985B6FC3FC35}|C:\\Users\\Usuario\\source\\repos\\Practica01\\Practica01\\Practica01.csproj|c:\\users\\usuario\\source\\repos\\practica01\\practica01\\servicios\\formaspagoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A84D5AE-2C50-431B-833D-185D795D4863}|Practica02.csproj|d:\\facultad\\practica02\\practica02\\controllers\\articuloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A84D5AE-2C50-431B-833D-185D795D4863}|Practica02.csproj|solutionrelative:controllers\\articuloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CFA2705-5E7E-4A40-BBC4-985B6FC3FC35}|C:\\Users\\Usuario\\source\\repos\\Practica01\\Practica01\\Practica01.csproj|c:\\users\\usuario\\source\\repos\\practica01\\practica01\\datos\\interafaces\\ifacturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A84D5AE-2C50-431B-833D-185D795D4863}|Practica02.csproj|d:\\facultad\\practica02\\practica02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A84D5AE-2C50-431B-833D-185D795D4863}|Practica02.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IFacturaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Practica01\\Practica01\\Datos\\interafaces\\IFacturaRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Practica01\\Practica01\\Datos\\interafaces\\IFacturaRepository.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAlwBAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T21:07:49.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FacturaService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Practica01\\Practica01\\Servicios\\FacturaService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Practica01\\Practica01\\Servicios\\FacturaService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T21:07:44.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FacturaRepositoryADO.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Practica01\\Practica01\\Datos\\implementations\\FacturaRepositoryADO.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Practica01\\Practica01\\Datos\\implementations\\FacturaRepositoryADO.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAwwIoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T20:57:38.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FacturaController.cs",
+              "DocumentMoniker": "D:\\FACULTAD\\PRACTICA02\\Practica02\\Controllers\\FacturaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FacturaController.cs",
+              "ToolTip": "D:\\FACULTAD\\PRACTICA02\\Practica02\\Controllers\\FacturaController.cs",
+              "RelativeToolTip": "Controllers\\FacturaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T20:52:10.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ArticulosController.cs",
+              "DocumentMoniker": "D:\\FACULTAD\\PRACTICA02\\Practica02\\Controllers\\ArticulosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ArticulosController.cs",
+              "ToolTip": "D:\\FACULTAD\\PRACTICA02\\Practica02\\Controllers\\ArticulosController.cs",
+              "RelativeToolTip": "Controllers\\ArticulosController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T20:52:31.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FACULTAD\\PRACTICA02\\Practica02\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\FACULTAD\\PRACTICA02\\Practica02\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T20:50:42.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormasPagoService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Practica01\\Practica01\\Servicios\\FormasPagoService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Practica01\\Practica01\\Servicios\\FormasPagoService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAcwBAAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T20:47:35.972Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
